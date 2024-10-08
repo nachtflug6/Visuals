@@ -1,6 +1,7 @@
-pandas
 numpy
-tqdm
+pandas
 matplotlib
-jupyter
-networkx
+seaborn
+plotly
+scikit-learn
+jupyterlab
